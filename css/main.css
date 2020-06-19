@@ -9,3 +9,9 @@ audio {
 button {
   margin-right: 8px;
 }
+
+.trackRef {
+  width: 255px;
+  padding: 8px;
+  cursor: pointer;
+}
